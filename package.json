@@ -1,0 +1,28 @@
+{
+  "name": "loop.ai",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000L\u0000O\u0000O\u0000P\u0000.\u0000A\u0000I\u0000-\u0000T\u0000E\u0000S\u0000T\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vriti04/LOOP.AI-TEST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vriti04/LOOP.AI-TEST/issues"
+  },
+  "homepage": "https://github.com/Vriti04/LOOP.AI-TEST#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1",
+    "nodemon": "^3.1.10",
+    "uuid": "^11.1.0"
+  }
+}
